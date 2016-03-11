@@ -67,7 +67,7 @@
 	<string name="keyremove">Schlüssel entfernen</string>
 	
 	<!-- io -->
-	<string name="saveload">Speichern / Laden</string>
+	<string name="saveload">Speichern / Laden / SQL</string>
 	<string name="empty">Bitte fügen Sie die XML-Daten in das untere Textfeld ein und versuchen es erneut.</string>
 	<string name="client">Client</string>
 	<string name="server">Server</string>
