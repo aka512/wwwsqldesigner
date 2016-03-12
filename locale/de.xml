@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale>
 	<!-- table management -->
-	<string name="addtable">Tabelle hinzufügen</string>
+	<string name="addtable">+ Tabelle hinzufügen</string>
 	<string name="edittable">Tabelle bearbeiten</string>
 	<string name="removetable">Tabelle entfernen</string>
 	<string name="removetables">Tabellen entfernen</string>
