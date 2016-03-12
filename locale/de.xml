@@ -8,7 +8,7 @@
 	<string name="aligntables">Tabellen ausrichten</string>
 	<string name="cleartables">Tabellen löschen</string>
 	<string name="confirmall">Wirklich alle Tabellen löschen</string>
-	<string name="newtable">Neue Tabelle</string>
+	<string name="newtable">Neue_Tabelle</string>
 	<string name="addpending">Tabelle plazieren</string>
 	<string name="tablenamelabel">Name</string>
 	<string name="tablecommentlabel">Kommentar</string>
