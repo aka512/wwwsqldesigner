@@ -20,9 +20,9 @@
 	<string name="uprow">Hoch</string>
 	<string name="downrow">Runter</string>
 	<string name="newrow">Neues Feld</string>
-	<string name="foreigncreate">Fremdschlüssel erstellen</string>
+	<string name="foreigncreate">Fremdschl. erst.</string>
 	<string name="foreignpending">Ziel-Tabelle wählen</string>
-	<string name="foreignconnect">Fremdschlüssel Verknüpfung</string>
+	<string name="foreignconnect">Fremdschl. Verkn.</string>
 	<string name="foreignconnectpending">Ziel-Zeile auswählen</string>
 	<string name="foreigndisconnect">Ziel-Zeile entfernen</string>
 	<string name="confirmtable">Tabelle wirklich löschen</string>
